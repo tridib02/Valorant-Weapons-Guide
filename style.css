@@ -37,9 +37,9 @@ body{
     position: relative;
     width: 100%;
     height: 100%;
-    background: transform #999;
+    /* background: transform #999; */
     transition: 1500ms;
-    transform-style: preserve-3d;
+    /* transform-style: preserve-3d; */
     box-shadow: rgb(77, 38, 38) 0px 20px 30px -10px;
     background: linear-gradient(to right, #634848, #3c2929);
 }
